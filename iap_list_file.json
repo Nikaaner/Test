@@ -1,6 +1,6 @@
 [
     {
-        "id" : "colorific.album.sport",
+        "id" : "colorificlite.album.sport",
         "album_color" : "peach",
         "screenshots" : [
             "http://colorificapp.com/colorific_iap_resources/sport/baseball_preview.png",
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "id" : "colorific.album.princess",
+        "id" : "colorificlite.album.princess",
         "album_color" : "pink",
         "screenshots" : [
             "http://colorificapp.com/colorific_iap_resources/princess/snowhite_preview.png",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "id" : "colorific.album.tales",
+        "id" : "colorificlite.album.tales",
         "album_color" : "purple",
         "screenshots" : [
             "http://colorificapp.com/colorific_iap_resources/tales/oz_preview.png",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "id" : "colorific.album.xmas",
+        "id" : "colorificlite.album.xmas",
         "album_color" : "red",
         "screenshots" : [
             "http://colorificapp.com/colorific_iap_resources/xmas/santa_and_boy_preview.png",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "id" : "colorific.album.halloween",
+        "id" : "colorificlite.album.halloween",
         "album_color" : "orange",
         "screenshots" : [
             "http://colorificapp.com/colorific_iap_resources/sport/baseball_preview.png",
