@@ -1,4 +1,5 @@
 [
+
     {
         "id" : "colorificlite.album.tales",
         "album_color" : "purple",
@@ -8,50 +9,6 @@
             "http://colorificapp.com/colorific_iap_resources/tales/robin_preview.png",
             "http://colorificapp.com/colorific_iap_resources/tales/puss_preview.png",
             "http://colorificapp.com/colorific_iap_resources/tales/aladdin_preview.png"
-        ]
-    },
-    {
-        "id" : "colorificlite.album.sport",
-        "album_color" : "peach",
-        "screenshots" : [
-            "http://colorificapp.com/colorific_iap_resources/sport/baseball_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/soccer_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/surfing_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/mtb_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/football_am_preview.png"
-        ]
-    },
-    {
-        "id" : "colorificlite.album.princesses",
-        "album_color" : "pink",
-        "screenshots" : [
-            "http://colorificapp.com/colorific_iap_resources/princess/snowhite_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/princess/mulan_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/princess/mermaid_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/princess/sleeping_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/princess/jasmin_preview.png"
-        ]
-    },
-    {
-        "id" : "colorificlite.album.xmas",
-        "album_color" : "red",
-        "screenshots" : [
-            "http://colorificapp.com/colorific_iap_resources/xmas/santa_and_boy_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/xmas/rudolph_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/xmas/snowmen_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/xmas/fireplace_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/xmas/xmas_dog_preview.png"
-        ]
-    },
-    {
-        "id" : "colorificlite.album.halloween",
-        "album_color" : "orange",
-        "screenshots" : [
-            "http://colorificapp.com/colorific_iap_resources/sport/baseball_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/soccer_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/surfing_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/mtb_preview.png",
-            "http://colorificapp.com/colorific_iap_resources/sport/football_am_preview.png"
         ]
     }
 ]
